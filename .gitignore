@@ -1,0 +1,8 @@
+# ignore all
+*
+
+# don't ignore zdoom save files
+!*.zds
+
+# don't ignore the .gitignore file
+!.gitignore
